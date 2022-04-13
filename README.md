@@ -1,9 +1,6 @@
 # House_Price_Prediction
 Housing Price Prediction using  Linear regression with regularization techniques
 
-# Project Name
-> Outline a brief description of your project.
-
 
 ## Table of Contents
 * [General Info](#general-information)
